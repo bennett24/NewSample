@@ -1,0 +1,2 @@
+# NewSample
+GitHub with Netbeans
